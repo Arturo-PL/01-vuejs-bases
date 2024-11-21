@@ -11,15 +11,25 @@ Este comando instalará y ejecutará create-vue, la herramienta oficial para gen
 A continuación, se te presentarán varias preguntas para configurar tu proyecto. Puedes responderlas según tus necesidades o simplemente elegir las opciones predeterminadas presionando Enter:
 
 ✔ Nombre del proyecto: … <your-project-name>
+
 ✔ ¿Agregar TypeScript? … No / Sí
+
 ✔ ¿Agregar compatibilidad con JSX? … No / Sí
+
 ✔ ¿Agregar Vue Router para aplicaciones de una sola página? … No / Sí
+
 ✔ ¿Agregar Pinia para gestión de estados? … No / Sí
+
 ✔ ¿Agregar Vitest para pruebas unitarias? … No / Sí
+
 ✔ ¿Agregar una solución de pruebas de extremo a extremo? … No / Cypress / Nightwatch / Playwright
+
 ✔ ¿Agregar ESLint para la calidad del código? … No / Sí
+
 ✔ ¿Agregar Prettier para el formato del código? … No / Sí
+
 ✔ ¿Agregar la extensión Vue DevTools 7 para depuración? … No / Sí
+
 Una vez que completes este paso, se creará el proyecto en una carpeta con el nombre que hayas especificado.
 
 2. Instalar dependencias e iniciar el servidor de desarrollo
